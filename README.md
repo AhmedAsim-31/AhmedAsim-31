@@ -11,8 +11,8 @@
 - 🎮 My hobies are playing video games and sports
   
 ## My stack:
-- 5+ years of experience in React Native
-- 3+ years of experience in Flutter
+- 3+ years of experience in React Native
+- 2+ years of experience in Flutter
 - HTML/CSS, Javascript
 - Git, CI/CD
 
