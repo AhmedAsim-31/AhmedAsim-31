@@ -2,7 +2,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AhmedAsim-69.AhmedAsim-69&left_color=royalblue&right_color=black"  />
 <h3 align="center">Aspiring Mobile Application Developer from Pakistan </h3>
 
-## About Me!
+## About Me
 
 - 💼 I’m currently a Software Engineer @[Satus Systems](https://www.satussystems.com)
 - 🌱 I’m currently developing Applications Mobile
