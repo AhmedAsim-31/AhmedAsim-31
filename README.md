@@ -7,7 +7,7 @@
 - 💼 I’m currently a Software Engineer @[Satus Systems](https://www.satussystems.com)
 - 🌱 I’m currently developing Applications Mobile
 - 👩🏻‍💻 I’m currently working on Flutter and React Native
-- 🤔 My interest lies in Mobile and back-end development
+- 🤔 My interest lies in front-end development
 - 🎮 My hobies are playing video games and sports
   
 ## My stack:
