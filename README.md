@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ahmed Asim 👋 </h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AhmedAsim-69.AhmedAsim-69&left_color=royalblue&right_color=black"  />
-<h3 align="center">Aspiring Mobile Application Developer from Pakistan </h3>
+<h3 align="center">Aspiring Frontend Engineer from Pakistan </h3>
 
 ## About Me
 
@@ -11,9 +11,9 @@
 - 🎮 My hobies are playing video games and sports
   
 ## My stack:
-- 2+ years of experience in React Native
-- 1+ years of experience in Flutter
-- HTML/CSS, Javascript
+- 2+ years of experience in Mobile App Development
+- 1+ years of experience in Web Development
+- Next.js | React.js | Javascript | Typescript
 - Git, CI/CD
 
 
@@ -33,11 +33,12 @@
     <kbd>Front-end</kbd>
     <br>
     <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" />
   </kbd>
    <kbd>
     <kbd>Mobile</kbd>
@@ -60,6 +61,7 @@
     <kbd>Tools</kbd>
     <br>
     <br>
+    <img width="30px" src="https://www.cursor.com/favicon.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />
@@ -90,5 +92,5 @@
 
 
 <h6>
-Last Edited on: 07/01/2025
+Last Edited on: 15/10/2025
 </h6>
