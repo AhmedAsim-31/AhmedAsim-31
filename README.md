@@ -1,96 +1,23 @@
-<h1 align="center">Hi, I'm Ahmed Asim 👋 </h1>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AhmedAsim-69.AhmedAsim-69&left_color=royalblue&right_color=black"  />
-<h3 align="center">Aspiring Frontend Engineer from Pakistan </h3>
+# Ahmed Asim
 
-## About Me
+Full-stack and mobile engineer based in Lahore, Pakistan.
+I build web, mobile and backend products, connect them to payment providers and other APIs, and fix production systems that have become hard to change.
 
-- 💼 I’m currently a Software Engineer @[Satus Systems](https://www.satussystems.com)
-- 🌱 I’m currently developing Applications Mobile
-- 👩🏻‍💻 I’m currently working on Flutter and React Native
-- 🤔 My interest lies in front-end development
-- 🎮 My hobies are playing video games and sports
-  
-## My stack:
-- 2+ years of experience in Mobile App Development
-- 1+ years of experience in Web Development
-- Next.js | React.js | Javascript | Typescript
-- Git, CI/CD
+Taking on freelance projects.
+[Email](mailto:ahmedk082@gmail.com) · [Portfolio](https://ahmed-asim.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/ahmed-asim31/)
 
+## What I work on
 
-<p style="display: inline-block;" align="center">
-  <kbd>
-    <kbd>Programming Languages</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" /> 
-  </kbd>
-    <kbd>
-    <kbd>Front-end</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /> 
-  </kbd>
-   <kbd>
-    <kbd>Mobile</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-  </kbd>
-  <br>
-  <br>
-  <kbd>
-    <kbd>Terminal Scripts</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-  </kbd>
-  <kbd>
-    <kbd>Tools</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://www.cursor.com/favicon.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-  </kbd>
-</p>
-<!-- //
-// ## My Journey
-// <div>
-//  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=AhmedAsim-69&show_icons=true&theme=onedark">
-//  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AhmedAsim-69&layout=compact&theme=onedark" />
-//  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedAsim-69&theme=github">
-//  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedAsim-69&theme=onedark" />
-// </div>
-// -->
+- **Build:** MVPs, web and mobile apps, dashboards and end-to-end workflows.
+- **Integrate:** payment providers, webhooks, authentication, maps and other third-party APIs.
+- **Improve:** existing codebases, hard bugs, backend workflows, performance and reliability.
 
-## Contributions
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmedasim-31/ahmedasim-31/gh-pages/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmedasim-31/ahmedasim-31/gh-pages/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ahmedasim-31/ahmedasim-31/gh-pages/github-contribution-grid-snake.svg">
-</picture>
-<!-- ![Snake animation](https://github.com/AhmedAsim-69/AhmedAsim-69/blob/output/github-contribution-grid-snake.svg)
- -->
+## Recent projects
 
+- [PayScope](https://ahmed-asim.vercel.app/work/payscope/): a payment operations console. It ingests signed provider webhooks, reconciles payment records against customer access, and repairs drift with audited actions. Portfolio project, running on simulated providers.
+- [FieldFlow](https://ahmed-asim.vercel.app/work/fieldflow/): a field-service dispatch platform with a Next.js dashboard, an Expo technician app and a Hono API on Cloudflare Workers. Portfolio project.
+- Client mobile apps in Flutter and React Native: [see the full list](https://ahmed-asim.vercel.app/work/).
 
+## Stack
 
-<h6>
-Last Edited on: 15/10/2025
-</h6>
+TypeScript, React, Next.js, React Native, Expo, Flutter, Hono, Fastify, Cloudflare Workers, PostgreSQL, Drizzle, Zod
